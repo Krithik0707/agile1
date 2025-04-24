@@ -1,4 +1,5 @@
 x=5
 y=6
-c=x+y
+z=2
+c=x+y+z
 print(c)
