@@ -1,5 +1,5 @@
 x=5
 y=6
 z=2
-c=x+y+z
-print(c)
+d=x+y+z
+print(d)
